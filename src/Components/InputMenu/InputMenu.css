@@ -1,0 +1,28 @@
+body{
+    background-color: #ffd699;
+}
+
+.card{
+    margin-top: 250px;
+    z-index: 10;
+}
+
+
+.card-header{
+    background-color:#ff9900;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    height: 50px;
+}
+
+
+
+.form-control{
+    background-color:  #ffc266;
+    
+}
+
+.mar{
+    margin-right: 65%;
+}
