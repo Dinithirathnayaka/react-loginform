@@ -1,12 +1,9 @@
-import react from 'react';
+import react from "react";
 
-import InputMenu from './Components/InputMenu/InputMenu';
-
+import InputMenu from "./Components/InputMenu/InputMenu";
 
 function App() {
-  return (
-   <InputMenu/>
-  );
+  return <InputMenu />;
 }
 
 export default App;
